@@ -1,4 +1,7 @@
-## EX. NO:8
+### NAME: M Gautham
+### REGISTER NO: 212221230027
+### EX. NO: 8
+### DATE: 07/05/24
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
  To implement the conversion of live speech to text.<BR>
